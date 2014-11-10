@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Servicetwo
+Bundle-SymbolicName: com.levinzhang.servicetwo
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: LEVINZHANG
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Import-Package: com.levinzhang.serviceinterface,
+ org.osgi.framework;version="1.3.0"
+Bundle-Activator: com.levinzhang.servicetwo.Activator

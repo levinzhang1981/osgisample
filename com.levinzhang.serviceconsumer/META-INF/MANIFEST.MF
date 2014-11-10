@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Serviceconsumer
+Bundle-SymbolicName: com.levinzhang.serviceconsumer
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.levinzhang.serviceconsumer.Activator
+Bundle-Vendor: LEVINZHANG
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Import-Package: com.levinzhang.serviceinterface,
+ org.osgi.framework;version="1.3.0"
