@@ -1,3 +1,1 @@
-#Hello zhangwb
-dsfsdf
-dsfsdf
+#The demo project of OSGi
